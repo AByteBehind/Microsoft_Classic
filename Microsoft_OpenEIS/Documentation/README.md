@@ -1,6 +1,6 @@
 # Documents
 
-Discover a Whole New Way to Look at EIS Full Page Brochure (1092 Part No. 35332) - 
+Discover a Whole New Way to Look at EIS Full Page Brochure (1092 Part No. 35332) - OEISIntroduction.pdf
 
 Microsoft Excel EIS Builder User's Guide (0393 Part No. 51695)
 
@@ -28,4 +28,4 @@ Contains the following full-color brochures
 - Inside Microsoft - Developer Resource Telephone Directory
 - LEX Software Systems Inc. Full Page Brochure
 
-Combined as as single PDF - 
+Combined as as single PDF
