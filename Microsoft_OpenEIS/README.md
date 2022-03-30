@@ -32,4 +32,6 @@ Contains the following full color brochures
 - Microsoft Consulting Services
 - Inside Microsoft - Developer Resource Telephone Directory
 - LEX Software Systems Inc. Full Page Brochure
-- 3 3.5" 1.44MB HD format diskettes with the EIS Application and Example Applications
+
+# Diskettes
+3 3.5" 1.44MB HD format diskettes with the EIS Application and Example Applications
