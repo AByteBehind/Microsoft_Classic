@@ -13,6 +13,7 @@ Microsoft Registration Card (0393 Part No. 51296)
 Open EIS Applications and Tools Folder (1192 Part No. 021-051-060) - ApplicationsAndTools-r.pdf
 
 Microsoft Products and Services (1192 Part No. 35345) - MicrosoftProductsAndServices-r.pdf
+
 Contains the following full-color brochures 
 - Excel for Windows v4.0
 - Word for Windows v2.0
@@ -27,5 +28,3 @@ Contains the following full-color brochures
 - Microsoft Consulting Services
 - Inside Microsoft - Developer Resource Telephone Directory
 - LEX Software Systems Inc. Full Page Brochure
-
-Combined as as single PDF
