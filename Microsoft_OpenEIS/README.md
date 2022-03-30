@@ -1,11 +1,13 @@
 # Microsoft Open EIS Pak
 
-See https://abytebehind.com/
+Discover a Whole New Way to Look at EIS Full Page Brochure (1092 Part No. 35332)
 
-"Discover a Whole New Way to Look at EIS" Full Page Brochure (1092 Part No. 35332)
 Microsoft Excel EIS Builder User's Guide (0393 Part No. 51695)
+
 Building Enterprise Information Systems: A Guide to EIS Development with Microsoft Applications (1192 Part No. 35340)
+
 Microsoft License Card (0992 Part No. 36543)
+
 Microsoft Registration Card (0393 Part No. 51296)
 
 Open EIS Applications and Tools Folder (1192 Part No. 021-051-060)
